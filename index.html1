@@ -41,7 +41,7 @@
       "currency": "BRL",
       "value": {
         "@type": "QuantitativeValue",
-        "value": 3262.00,
+        "value": `A combinar
         "unitText": "MONTH"
       }
     }
@@ -75,9 +75,9 @@
     <p><strong>Empresa:</strong> Sua Empresa</p>
     <p><strong>Local:</strong> Campo Grande - MS</p>
     <p><strong>Tipo de Contrato:</strong> CLT</p>
-    <p><strong>Salário:</strong> R$ 3.262,00 por mês</p>
+    <p><strong>Salário:</strong>  À combinar</p>
     <p><strong>Descrição:</strong> Estamos em busca de um(a) Analista Fiscal com perfil proativo, experiência em rotinas fiscais e tributárias, domínio em cálculo de impostos e facilidade no contato com clientes. Ética e compromisso são fundamentais.</p>
-    <p><strong>Envie seu currículo para:</strong> <a href="mailto:vaga@suaempresa.com.br">vaga@suaempresa.com.br</a></p>
+    <p><strong>Envie seu currículo para:</strong> <a href="mailto:vaga25currriculos@gmail.com">vaga25curriculo@gmail.com</a></p>
   </div>
 </body>
 </html>
