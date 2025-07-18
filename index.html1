@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Vaga: Analista Fiscal</title>
+
+  <!-- Dados estruturados JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "JobPosting",
+    "title": "Analista Fiscal",
+    "description": "Empresa busca profissional cursando ensino superior, com experiência em rotinas fiscais, apuração de impostos e atendimento direto a clientes. Ética, compromisso e proatividade são diferenciais.",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sua Empresa",
+      "value": "AF-202507"
+    },
+    "datePosted": "2025-07-18",
+    "validThrough": "2025-08-18T23:59",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sua Empresa",
+      "sameAs": "https://www.suaempresa.com",
+      "logo": "https://www.suaempresa.com/logo.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua Exemplo, 123",
+        "addressLocality": "Campo Grande",
+        "addressRegion": "MS",
+        "postalCode": "79000-000",
+        "addressCountry": "BR"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "BRL",
+      "value": {
+        "@type": "QuantitativeValue",
+        "value": 3262.00,
+        "unitText": "MONTH"
+      }
+    }
+  }
+  </script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #0055a5;
+    }
+    .vaga-info {
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="vaga-info">
+    <h1>Vaga: Analista Fiscal</h1>
+    <p><strong>Empresa:</strong> Sua Empresa</p>
+    <p><strong>Local:</strong> Campo Grande - MS</p>
+    <p><strong>Tipo de Contrato:</strong> CLT</p>
+    <p><strong>Salário:</strong> R$ 3.262,00 por mês</p>
+    <p><strong>Descrição:</strong> Estamos em busca de um(a) Analista Fiscal com perfil proativo, experiência em rotinas fiscais e tributárias, domínio em cálculo de impostos e facilidade no contato com clientes. Ética e compromisso são fundamentais.</p>
+    <p><strong>Envie seu currículo para:</strong> <a href="mailto:vaga@suaempresa.com.br">vaga@suaempresa.com.br</a></p>
+  </div>
+</body>
+</html>
